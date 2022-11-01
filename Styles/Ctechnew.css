@@ -1,0 +1,290 @@
+.main-container {
+    display: flex;
+    flex-direction: column;
+    background-image:url("D:\workspace\ctech-new\src\Images/Aboutus.png");
+    height: 630px;
+    background-size:cover;
+    
+}
+
+.canara-tech-lab {
+    color: white;
+    margin-top: 25px;
+    font-weight: bold;
+    font-size: 16px;
+    margin-right: 1103px;
+    position: relative;
+    top: 21px;
+}
+
+.header {
+    display: flex;
+    flex-direction: row-reverse;
+    font-size: 12px;
+    font-weight: 500;
+    color: white;
+    position: relative;
+
+}
+.create-ac {
+    margin-left: 25px;
+    margin-right: 30px;
+    border: 1px solid white;
+    background-color: white;
+    color:  #0866BD;
+    height: 23px;
+    width: 111px;
+    text-align: center;
+
+}
+
+.login{
+    margin-left: 66px;
+}
+
+.header-link {
+    margin-right: 50px;
+    cursor: pointer;
+    color: white;
+
+    
+}
+.ant-dropdown-menu-item{
+    background-color: black;
+
+    
+}
+.ant-dropdown-menu-title-content{
+    display: flex;
+    position: relative;
+    color: white;
+    font-size: 10px;
+    background-color:black;
+    padding: 0px;
+    
+    
+    
+}
+.ant-dropdown-menu{
+    background-color:black;
+    padding: 0px ;
+
+} 
+
+.About-tagline{
+    margin-top: 251px;
+    font-size: 34px;
+    color: white;
+    margin-right: 1000px;
+    font-weight: 500;
+}
+.sub-tagline{
+    margin-right: 1017px;
+    font-size: 18px;
+    color: white;
+    font-weight: 400;
+}
+.main-container2{
+    display: flex;
+    flex-direction: column;
+}
+
+.box-container1{
+    border: 1px solid grey;
+    background-color: #D9D9D9;
+    height: 590px;
+    width: 1217px;
+    margin-top: 27px;
+    margin-left: 22px;
+    border-radius: 21px;
+}
+.Paragraph1{
+    font-size: 17px;
+    width: 1082px;
+    margin-left: 60px;
+    margin-top: 32px;
+}
+.Paragraph2{
+    font-size: 17px;
+    width: 1082px;
+    margin-left: 60px;
+    margin-top: 32px;
+}
+.Paragraph3{
+    font-size: 17px;
+    width: 1082px;
+    margin-left: 60px;
+    margin-top: 32px;
+}
+.box-container2{
+    border: 1px solid grey;
+    background-color: white;
+    height: 150px;
+    width: 1217px;
+    margin-top: 27px;
+    margin-left: 22px;
+    border-radius: 21px;
+}
+.box-container3{
+    border: 1px solid grey;
+    background-color: white;
+    height: 150px;
+    width: 1217px;
+    margin-top: 27px;
+    margin-left: 22px;
+    border-radius: 21px;
+}
+.box-container4{
+    border: 1px solid grey;
+    background-color: white;
+    height: 150px;
+    width: 1217px;
+    margin-top: 27px;
+    margin-left: 22px;
+    border-radius: 21px;
+}
+
+.footer-container {
+    height: 500px;
+    background-color: #1D3557;
+    margin-top: 27px;
+}
+
+.canara-tech {
+    color: white;
+    font-size: 25px;
+    margin-right: 966px;
+    position: relative;
+    top: 23px;
+    font-weight: bold;
+
+}
+
+.footer {
+    display: flex;
+    flex-direction: row;
+    font-weight: 400;
+}
+
+.footer-coloumn-1 {
+    display: flex;
+    flex-direction: column;
+}
+
+.folow {
+    color: white;
+    font-size: 20px;
+    margin-top: 80px;
+    margin-right: 37px;
+    
+
+
+}
+
+.socialmedia {
+    display: flex;
+    flex-direction: row;
+}
+
+.linkin {
+    margin-left: 62px;
+    margin-top: 30px;
+}
+.facebook {
+    margin-left: 32px;
+    margin-top: 30px;
+
+}
+
+.twitter {
+    margin-left: 32px;
+    margin-top: 30px;
+
+}
+
+.Insta {
+    margin-left: 32px;
+    margin-top: 30px;
+
+}
+
+.address {
+    color: white;
+    margin-top: 80px;
+    margin-right: 97px;
+    font-size: 20px;
+}
+
+.address-1 {
+    color: white;
+    margin-top: 30px;
+    margin-left: 77px;
+    font-size: 20px;
+}
+
+.contact-detail {
+    color: white;
+    margin-top: 80px;
+    /* margin-left: 77px; */
+    font-size: 20px;
+}
+
+.number {
+    color: white;
+    margin-top: 30px;
+    /* margin-left: 77px; */
+    font-size: 20px;
+}
+
+.link {
+    color: white;
+    margin-left: 77px;
+    font-size: 20px;
+}
+
+.mail {
+    color: white;
+    margin-left: 109px;
+    font-size: 20px;
+    margin-top: 6px;
+    text-decoration: underline;
+}
+
+.privacy {
+    color: white;
+    margin-top: 80px;
+    /* margin-left: 100px; */
+    font-size: 20px;
+}
+
+.cookie {
+    color: white;
+    margin-top: 20px;
+    /* margin-left: 100px; */
+    font-size: 20px;
+}
+
+.terms {
+    color: white;
+    margin-top: 20px;
+    margin-left: 64px;
+    font-size: 20px;
+}
+
+.foot {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 127px;
+
+}
+.Aro-icon{
+    margin-left: 1181px;
+    margin-top: -66px;
+    height: 60px;
+    display: flex
+}
+
+
+
+
